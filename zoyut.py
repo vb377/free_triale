@@ -6,3 +6,4 @@ Created on Thu Jan 31 10:50:47 2019
 """
 
 print('Privet, mein zoyut vishnu')
+print('kakluma yoma paratazse')
